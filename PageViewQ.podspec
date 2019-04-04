@@ -24,11 +24,11 @@ Pod::Spec.new do |spec|
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
-  spec.description  = <<-DESC
+  # spec.description  = <<-DESC
                    DESC
 
   spec.homepage     = "https://github.com/QuocNguyen0909"
-  # spec.screenshots  = "https://github.com/QuocNguyen0909/PageViewQ/blob/master/pageview.gif", "www.example.com/screenshots_2.gif"
+  spec.screenshots  = "https://github.com/QuocNguyen0909/PageViewQ/blob/master/pageview.gif"
 
 
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -39,7 +39,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.license      = "MIT"
-  # spec.license      = { :type => "MIT", :file => "https://github.com/QuocNguyen0909/PageViewQ/blob/master/LICENSE" }
+  spec.license      = { :type => "MIT", :file => "https://github.com/QuocNguyen0909/PageViewQ/blob/master/LICENSE" }
 
 
   # ――― Author Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
