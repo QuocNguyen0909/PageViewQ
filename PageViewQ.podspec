@@ -27,7 +27,7 @@ Pod::Spec.new do |spec|
   spec.description  = <<-DESC
                    DESC
 
-  spec.homepage     = "https://github.com/QuocNguyen0909/PageViewQ.git"
+  spec.homepage     = "https://github.com/QuocNguyen0909"
   # spec.screenshots  = "https://github.com/QuocNguyen0909/PageViewQ/blob/master/pageview.gif", "www.example.com/screenshots_2.gif"
 
 
